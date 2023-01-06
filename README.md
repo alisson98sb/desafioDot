@@ -17,8 +17,7 @@ Projeto Web desenvolvido: RESOLVENDO DESAFIO de entrevista REACT.JS.
 
 
 ### Mobile (screenshot):
-<img src="./src/assets/dotChallenge.jpeg" />
-
+<img src="./src/assets/dotChallengeMobile.jpeg" />
 
 ### Dê uma olhada como o projeto ficou!
 https://al-money.vercel.app/
