@@ -1,10 +1,9 @@
 Projeto Web desenvolvido: RESOLVENDO DESAFIO de entrevista REACT.JS.
 
 ### Descrição:
-
 - [x] Listagem de pontos na tela ao clicar;
-- [x] Desfazer ultimo ponto;
-- [x] Refazer ultimo ponto desfeito;
+- [x] Desfazer último ponto;
+- [x] Refazer último ponto desfeito;
 - [x] Remover todos os pontos;
 
 ## Tecnologias utilizadas: 🚀
@@ -22,7 +21,6 @@ Projeto Web desenvolvido: RESOLVENDO DESAFIO de entrevista REACT.JS.
 
 
 ### Dê uma olhada como o projeto ficou!
-
 https://al-money.vercel.app/
 
 <br>
